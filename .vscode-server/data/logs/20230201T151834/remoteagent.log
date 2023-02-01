@@ -87,3 +87,4 @@
 2023-02-01 17:51:16.477 [info] [127.0.0.1][cc44f35c][ExtensionHostConnection] <14120> Launched Extension Host Process.
 2023-02-01 17:51:52.030 [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ec2-user)
 2023-02-01 17:51:52.030 [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+2023-02-01 17:56:15.611 [info] New EH opened, aborting shutdown

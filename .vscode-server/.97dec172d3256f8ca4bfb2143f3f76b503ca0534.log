@@ -761,3 +761,5 @@ Cancelling previous shutdown timeout
 [IPC Library: Pty Host]  INFO Persistent process "47": Replaying 394 chars and 1 size events
 [17:51:52] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ec2-user)
 [17:51:52] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+New EH opened, aborting shutdown
+[17:56:15] New EH opened, aborting shutdown
