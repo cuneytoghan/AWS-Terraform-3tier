@@ -1,0 +1,36 @@
+2023-02-01 14:54:39.379 [info] Log level: Info
+2023-02-01 14:54:39.379 [info] Validating found git in: "git"
+2023-02-01 14:54:39.379 [info] Using git "2.38.1" from "git"
+2023-02-01 14:54:39.380 [info] > git rev-parse --show-toplevel [76ms]
+2023-02-01 14:54:39.380 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-01 14:54:39.380 [info] > git rev-parse --show-toplevel [6ms]
+2023-02-01 14:54:39.380 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-01 14:54:39.380 [info] > git rev-parse --show-toplevel [13ms]
+2023-02-01 14:54:39.380 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-01 14:54:39.380 [info] > git rev-parse --show-toplevel [3ms]
+2023-02-01 14:54:39.380 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-01 14:54:39.380 [info] > git rev-parse --show-toplevel [6ms]
+2023-02-01 14:54:39.380 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-01 14:54:39.380 [info] > git rev-parse --show-toplevel [1ms]
+2023-02-01 14:54:39.380 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-01 14:54:39.380 [info] > git rev-parse --show-toplevel [68ms]
+2023-02-01 14:54:39.380 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-01 14:54:39.397 [info] > git rev-parse --show-toplevel [20ms]
+2023-02-01 14:54:39.397 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-01 14:54:39.410 [info] > git rev-parse --show-toplevel [5ms]
+2023-02-01 14:54:39.410 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-01 14:55:05.756 [info] > git rev-parse --show-toplevel [2ms]
+2023-02-01 14:55:05.764 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-02-01 14:55:05.774 [info] Open repository: /home/ec2-user/TestTerraform/terraform-aws-3tier
+2023-02-01 14:55:05.791 [info] > git config --get commit.template [9ms]
+2023-02-01 14:55:05.792 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2023-02-01 14:55:05.807 [info] > git status -z -uall [8ms]
+2023-02-01 14:55:05.809 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2023-02-01 14:55:05.849 [info] > git config --get commit.template [11ms]
+2023-02-01 14:55:05.849 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2023-02-01 14:55:05.874 [info] > git status -z -uall [14ms]
+2023-02-01 14:55:05.874 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2023-02-01 14:55:06.381 [info] > git show --textconv :main.tf [17ms]
+2023-02-01 14:55:06.382 [info] > git ls-files --stage -- /home/ec2-user/TestTerraform/terraform-aws-3tier/main.tf [3ms]
+2023-02-01 14:55:06.390 [info] > git cat-file -s 55a0a5af8af38aa7cf6a9ea5e410851a0798c506 [3ms]
+2023-02-01 14:55:06.439 [info] > git check-ignore -v -z --stdin [1ms]

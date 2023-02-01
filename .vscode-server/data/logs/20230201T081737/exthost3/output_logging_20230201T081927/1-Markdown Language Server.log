@@ -1,0 +1,39 @@
+[Trace 08:25:52.382] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/ec2-user/terraform-aws-3tier/README.md
+[Trace 08:25:52.396] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/terraform-aws-3tier/README.md
+[Trace 08:25:52.398] Server: connection.languages.diagnostics.on: file:///home/ec2-user/terraform-aws-3tier/README.md
+[Trace 08:25:52.407] Server: connection.languages.diagnostics.on: file:///home/ec2-user/terraform-aws-3tier/README.md
+[Trace 08:25:52.583] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/terraform-aws-3tier/README.md 1
+[Debug 08:25:52.584] LinkProvider: compute - file:///home/ec2-user/terraform-aws-3tier/README.md
+[Debug 08:25:52.805] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/terraform-aws-3tier/README.md 1
+[Debug 08:25:52.806] TableOfContentsProvider: create - file:///home/ec2-user/terraform-aws-3tier/README.md
+[Trace 08:29:37.759] Server: connection.languages.diagnostics.on: file:///home/ec2-user/terraform-aws-3tier/README.md
+[Trace 08:33:40.973] Server: connection.languages.diagnostics.on: file:///home/ec2-user/terraform-aws-3tier/README.md
+[Debug 08:33:41.274] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/terraform-aws-3tier/README.md 1
+[Trace 08:33:42.151] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/ec2-user/terraform-aws-3tier/README.md
+[Trace 08:33:42.151] VsCodeClientWorkspace: deleteDocument: file:///home/ec2-user/terraform-aws-3tier/README.md
+[Trace 08:47:37.834] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/ec2-user/terraform-aws-3tier/terraform-aws-3tier/README.md
+[Trace 08:49:44.203] Server: connection.languages.diagnostics.on: file:///home/ec2-user/terraform-aws-3tier/terraform-aws-3tier/README.md
+[Trace 08:49:44.368] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/ec2-user/terraform-aws-3tier/terraform-aws-3tier/README.md
+[Trace 08:49:44.368] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/terraform-aws-3tier/terraform-aws-3tier/README.md
+[Trace 08:49:44.369] Server: connection.languages.diagnostics.on: file:///home/ec2-user/terraform-aws-3tier/terraform-aws-3tier/README.md
+[Trace 08:49:44.369] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/terraform-aws-3tier/terraform-aws-3tier/README.md 1
+[Debug 08:49:44.369] LinkProvider: compute - file:///home/ec2-user/terraform-aws-3tier/terraform-aws-3tier/README.md
+[Trace 08:49:44.370] Server: connection.languages.diagnostics.on: file:///home/ec2-user/terraform-aws-3tier/terraform-aws-3tier/README.md
+[Debug 08:49:44.378] TableOfContentsProvider: create - file:///home/ec2-user/terraform-aws-3tier/terraform-aws-3tier/README.md
+[Debug 08:49:44.546] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/terraform-aws-3tier/terraform-aws-3tier/README.md 1
+[Trace 08:50:11.441] Server: connection.languages.diagnostics.on: file:///home/ec2-user/terraform-aws-3tier/README.md
+[Trace 08:50:11.442] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/ec2-user/terraform-aws-3tier/terraform-aws-3tier/README.md
+[Trace 08:50:11.442] VsCodeClientWorkspace: deleteDocument: file:///home/ec2-user/terraform-aws-3tier/terraform-aws-3tier/README.md
+[Trace 08:50:11.602] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/ec2-user/terraform-aws-3tier/README.md
+[Trace 08:50:11.602] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/terraform-aws-3tier/README.md
+[Trace 08:50:11.604] Server: connection.languages.diagnostics.on: file:///home/ec2-user/terraform-aws-3tier/README.md
+[Trace 08:50:11.604] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/terraform-aws-3tier/README.md 1
+[Debug 08:50:11.604] LinkProvider: compute - file:///home/ec2-user/terraform-aws-3tier/README.md
+[Trace 08:50:11.608] Server: connection.languages.diagnostics.on: file:///home/ec2-user/terraform-aws-3tier/README.md
+[Debug 08:50:11.609] TableOfContentsProvider: create - file:///home/ec2-user/terraform-aws-3tier/README.md
+[Debug 08:50:11.778] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/terraform-aws-3tier/README.md 1
+[Trace 08:50:16.097] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/ec2-user/terraform-aws-3tier/README.md
+[Trace 08:50:16.097] VsCodeClientWorkspace: deleteDocument: file:///home/ec2-user/terraform-aws-3tier/README.md
+[Trace 08:50:16.098] Server: connection.languages.diagnostics.on: file:///home/ec2-user/terraform-aws-3tier/README.md
+[Trace 08:50:16.398] VsCodeClientWorkspace: onDidChangeWatchedFiles: 3: file:///home/ec2-user/terraform-aws-3tier/README.md
+[Trace 09:15:05.933] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/ec2-user/TestTerraform/terraform-aws-3tier/terraform-aws-3tier/README.md

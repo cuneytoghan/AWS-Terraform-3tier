@@ -1,0 +1,29 @@
+2023-02-01 08:17:37.594 [info] Extension host agent started.
+2023-02-01 08:17:37.647 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ec2-user/.vscode-server/extensions
+2023-02-01 08:17:37.673 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ec2-user/.vscode-server/extensions
+2023-02-01 08:17:37.988 [info] [127.0.0.1][d05a841f][ManagementConnection] New connection established.
+2023-02-01 08:17:38.277 [info] [127.0.0.1][0482c471][ExtensionHostConnection] New connection established.
+2023-02-01 08:17:38.309 [info] [127.0.0.1][0482c471][ExtensionHostConnection] <3732> Launched Extension Host Process.
+2023-02-01 08:18:53.119 [info] [127.0.0.1][d05a841f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-02-01 08:18:53.142 [info] [127.0.0.1][0482c471][ExtensionHostConnection] <3732> Extension Host Process exited with code: 0, signal: null.
+2023-02-01 08:18:53.142 [info] Last EH closed, waiting before shutting down
+2023-02-01 08:19:14.086 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-02-01 08:19:14.086 [info] Cancelling previous shutdown timeout
+2023-02-01 08:19:14.889 [info] [127.0.0.1][1344e14b][ManagementConnection] New connection established.
+2023-02-01 08:19:15.162 [info] [127.0.0.1][0d085274][ExtensionHostConnection] New connection established.
+2023-02-01 08:19:15.174 [info] [127.0.0.1][0d085274][ExtensionHostConnection] <3865> Launched Extension Host Process.
+2023-02-01 08:19:22.562 [info] [127.0.0.1][1344e14b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-02-01 08:19:22.588 [info] [127.0.0.1][0d085274][ExtensionHostConnection] <3865> Extension Host Process exited with code: 0, signal: null.
+2023-02-01 08:19:22.588 [info] Cancelling previous shutdown timeout
+2023-02-01 08:19:22.588 [info] Last EH closed, waiting before shutting down
+2023-02-01 08:19:25.668 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-02-01 08:19:25.668 [info] Cancelling previous shutdown timeout
+2023-02-01 08:19:26.224 [info] [127.0.0.1][b6b79ee9][ManagementConnection] New connection established.
+2023-02-01 08:19:26.532 [info] [127.0.0.1][4fd297d1][ExtensionHostConnection] New connection established.
+2023-02-01 08:19:26.555 [info] [127.0.0.1][4fd297d1][ExtensionHostConnection] <3994> Launched Extension Host Process.
+2023-02-01 08:24:25.669 [info] New EH opened, aborting shutdown
+2023-02-01 08:58:21.443 [error] [File Watcher (universal)] restarting watcher after error: terminated by itself with code null, signal: SIGSEGV
+2023-02-01 09:32:41.237 [info] [127.0.0.1][b6b79ee9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-02-01 09:32:41.269 [info] [127.0.0.1][4fd297d1][ExtensionHostConnection] <3994> Extension Host Process exited with code: 0, signal: null.
+2023-02-01 09:32:41.269 [info] Last EH closed, waiting before shutting down
+2023-02-01 09:37:41.270 [info] Last EH closed, shutting down

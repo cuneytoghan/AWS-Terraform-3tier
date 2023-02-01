@@ -1,0 +1,51 @@
+2023-02-01 17:51:19.369 [info] Log level: Info
+2023-02-01 17:51:19.369 [info] Validating found git in: "git"
+2023-02-01 17:51:19.369 [info] Using git "2.38.1" from "git"
+2023-02-01 17:51:19.369 [info] > git rev-parse --show-toplevel [106ms]
+2023-02-01 17:51:19.369 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-01 17:51:19.369 [info] > git rev-parse --show-toplevel [6ms]
+2023-02-01 17:51:19.369 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-01 17:51:19.369 [info] > git rev-parse --show-toplevel [8ms]
+2023-02-01 17:51:19.369 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-01 17:51:19.369 [info] > git rev-parse --show-toplevel [2ms]
+2023-02-01 17:51:19.369 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-01 17:51:19.369 [info] > git rev-parse --show-toplevel [6ms]
+2023-02-01 17:51:19.370 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-01 17:51:19.370 [info] > git rev-parse --show-toplevel [4ms]
+2023-02-01 17:51:19.370 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-01 17:51:19.370 [info] > git rev-parse --show-toplevel [24ms]
+2023-02-01 17:51:19.370 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-01 17:51:19.370 [info] > git rev-parse --show-toplevel [2ms]
+2023-02-01 17:51:19.370 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-01 17:54:24.940 [info] > git init [5ms]
+2023-02-01 17:54:24.940 [info] hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+2023-02-01 17:54:24.947 [info] > git rev-parse --show-toplevel [2ms]
+2023-02-01 17:54:24.954 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-02-01 17:54:24.967 [info] Open repository: /home/ec2-user
+2023-02-01 17:54:25.009 [warning] No remotes found in the git config file.
+2023-02-01 17:54:25.014 [info] > git config --get commit.template [28ms]
+2023-02-01 17:54:25.014 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [22ms]
+2023-02-01 17:54:25.019 [info] > git remote --verbose [10ms]
+2023-02-01 17:54:25.061 [info] > git status -z -uall [34ms]
+2023-02-01 17:54:25.093 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [40ms]
+2023-02-01 17:54:25.860 [warning] No remotes found in the git config file.
+2023-02-01 17:54:25.862 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2023-02-01 17:54:25.863 [info] > git config --get commit.template [23ms]
+2023-02-01 17:54:25.882 [info] > git remote --verbose [22ms]
+2023-02-01 17:54:25.974 [info] > git status -z -uall [85ms]
+2023-02-01 17:54:25.974 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [69ms]
+2023-02-01 17:54:26.713 [info] > git check-ignore -v -z --stdin [32ms]
+2023-02-01 17:54:26.754 [info] > git show --textconv :Terraform-aws-3tier/sg.tf [10ms]
+2023-02-01 17:54:26.761 [info] > git ls-files --stage -- /home/ec2-user/Terraform-aws-3tier/sg.tf [8ms]
+2023-02-01 17:54:27.237 [info] > git check-ignore -v -z --stdin [3ms]
+2023-02-01 17:54:27.325 [info] > git ls-files --stage -- /home/ec2-user/Terraform-aws-3tier/sg.tf [2ms]
+2023-02-01 17:54:27.470 [info] > git show --textconv :Terraform-aws-3tier/sg.tf [3ms]
